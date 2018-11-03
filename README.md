@@ -1,9 +1,6 @@
-# Icingaweb2 Container
+# Icingaweb2 Container for Docker on a Raspberry Pi (raspbian)
 
-[![Image Size](https://images.microbadger.com/badges/image/psitrax/icingaweb2.svg)](https://microbadger.com/images/psitrax/icingaweb2)
-[![Docker Stars](https://img.shields.io/docker/stars/psitrax/icingaweb2.svg)](https://hub.docker.com/r/psitrax/icingaweb2/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/psitrax/icingaweb2.svg)](https://hub.docker.com/r/psitrax/icingaweb2/)
-[![Docker Automated buil](https://img.shields.io/docker/automated/psitrax/icingaweb2.svg)](https://hub.docker.com/r/psitrax/icingaweb2/)
+Fork of [docker-icingaweb2](https://github.com/psi-4ward/docker-icingaweb2) that supports the raspberry pi as target platform.
 
 * Icingaweb2 v2.5.3
   * Director v1.4.3
@@ -71,4 +68,5 @@ sudo docker run \
 
 
 ## Maintainer
-* Christoph Wiechert <wio@psitrax.de>
+* Michael Rausch <it@emair.de>
+* Forked from  Christoph Wiechert <wio@psitrax.de>
